@@ -1,0 +1,94 @@
+﻿D:\VSGAY\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  renderer.cpp
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(294,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(298,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(299,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(309,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(310,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(316,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(317,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(318,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(319,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(320,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(345,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(345,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(347,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(347,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(349,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(349,108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(549,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(574,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(574,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(574,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(575,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(575,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(575,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(576,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(576,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(576,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(577,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(577,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(577,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(578,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(578,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(583,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(583,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(583,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(583,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(583,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(587,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(587,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(587,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(587,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(587,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(591,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(592,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(605,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(605,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(605,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(605,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(606,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(606,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(606,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(606,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(607,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(607,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(607,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(607,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(608,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(608,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(608,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(608,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(609,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(609,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(609,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(609,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(610,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(610,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(610,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(610,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(611,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(611,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(611,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(611,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(612,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(612,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(612,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(612,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1951,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1957,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1965,103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1965,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1965,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1965,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1965,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+     Creating library ..\modmap\test.lib and object ..\modmap\test.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+C:\Users\Init1.exe#1337\Desktop\Plague 2.0\Plague 2.0 SOURCE\renderer.cpp(1961): warning C4700: uninitialized local variable 'X' used
+  543 of 2457 functions (22.1%) were compiled, the rest were copied from previous compilation.
+    538 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Fortnite.vcxproj -> C:\Users\Init1.exe#1337\Desktop\Plague 2.0\modmap\test.dll
